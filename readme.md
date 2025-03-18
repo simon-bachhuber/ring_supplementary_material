@@ -1,5 +1,9 @@
 Supplementary Material for the paper [Recurrent Inertial Graph-based Estimator (RING)](https://openreview.net/pdf?id=h2C3rkn0zR).
 
+> **‼️ Important Information: ‼️**
+> 
+> `RING` is actively being maintained and developed [here](https://github.com/SimiPixel/ring). This repository contains `RING` as used for this [publication](https://openreview.net/pdf?id=h2C3rkn0zR). 
+
 This repository contains the coda and data (data is only used for evaluation, not training) that allows to:
 - Use the trained RING network.
 - Retrain the RING network from scratch.
